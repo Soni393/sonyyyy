@@ -1,0 +1,26 @@
+{
+  "itemId" : "_u-PeALGOEe-BqoueWhddPA",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_30JHsLGOEe-BqoueWhddPA",
+    "parameterList" : [ {
+      "id" : "_30masbGOEe-BqoueWhddPA",
+      "name" : "test_conn_Login"
+    }, {
+      "id" : "_30masrGOEe-BqoueWhddPA",
+      "name" : "test_conn_Server"
+    }, {
+      "id" : "_30mas7GOEe-BqoueWhddPA",
+      "name" : "test_conn_Database"
+    }, {
+      "id" : "_30matLGOEe-BqoueWhddPA",
+      "name" : "test_conn_AdditionalParams"
+    }, {
+      "id" : "_30matbGOEe-BqoueWhddPA",
+      "name" : "test_conn_Port"
+    }, {
+      "id" : "_30matrGOEe-BqoueWhddPA",
+      "name" : "test_conn_Password"
+    } ]
+  } ]
+}
