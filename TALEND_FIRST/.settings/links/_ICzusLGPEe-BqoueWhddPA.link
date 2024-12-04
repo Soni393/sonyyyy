@@ -1,0 +1,26 @@
+{
+  "itemId" : "_ICzusLGPEe-BqoueWhddPA",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_OsnUQLGPEe-BqoueWhddPA",
+    "parameterList" : [ {
+      "id" : "_Os2k0bGPEe-BqoueWhddPA",
+      "name" : "test1_conn_Login"
+    }, {
+      "id" : "_Os2k0rGPEe-BqoueWhddPA",
+      "name" : "test1_conn_Server"
+    }, {
+      "id" : "_Os2k07GPEe-BqoueWhddPA",
+      "name" : "test1_conn_Database"
+    }, {
+      "id" : "_Os2k1LGPEe-BqoueWhddPA",
+      "name" : "test1_conn_AdditionalParams"
+    }, {
+      "id" : "_Os2k1bGPEe-BqoueWhddPA",
+      "name" : "test1_conn_Port"
+    }, {
+      "id" : "_Os2k1rGPEe-BqoueWhddPA",
+      "name" : "test1_conn_Password"
+    } ]
+  } ]
+}

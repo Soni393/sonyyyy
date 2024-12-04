@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_Sz4hEbGOEe-BqoueWhddPA" label="talend_first" description="its my talend first pro from git " language="java" technicalLabel="TALEND_FIRST" author="_Sz4hErGOEe-BqoueWhddPA" productVersion="Talend Cloud Data Management Platform-8.0.1.20240524_0800-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/Soni393/sonyyyy.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_S1d1cLGOEe-BqoueWhddPA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_Sz4hErGOEe-BqoueWhddPA" login="konga.soni@trial63478.us.talend.com" firstName="KONGA" lastName="SONI" type="DQ"/>
+  <TalendProperties:User xmi:id="_rM0MELGUEe-BqoueWhddPA" login="kongaakhila2@trial63478.us.talend.com" firstName="KONGA" lastName="akki" type="DQ"/>
+</xmi:XMI>
